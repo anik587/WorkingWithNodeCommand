@@ -5,7 +5,7 @@ const addNote = (argv)=>{
 };
 
 const removeNote = (argv) => {
-    fileOperations.removeFile(argv);
+    fileOperations.removeFile(argv.title);
 };
 
 const listNote = () => {
