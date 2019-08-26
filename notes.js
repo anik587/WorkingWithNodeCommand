@@ -13,7 +13,7 @@ const listNote = () => {
 };
 
 const readNote = (argv) => {
-    fileOperations.readFile(argv);
+    fileOperations.readFile(argv.title);
 };
 
 
