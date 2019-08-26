@@ -1,0 +1,21 @@
+{
+  "name": "workingwithnodecommand",
+  "version": "1.0.0",
+  "description": "basic functionality with node command line file and chalk",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "chalk",
+    "fs",
+    "module"
+  ],
+  "author": "anik",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "yargs": "^14.0.0"
+  }
+}
