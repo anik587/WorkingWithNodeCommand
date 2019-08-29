@@ -1,6 +1,7 @@
 
 const {fileOperations} = require('./lib/index');
 const addNote = (argv)=>{
+    debugger
     fileOperations.addFile(argv.title, argv.body);
 };
 
