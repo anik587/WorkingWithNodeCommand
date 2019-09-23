@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28e242ed-c8d4-4c64-8bd3-c38fa195639b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/fileOperations.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/fileOperations.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes.js" beforeDir="false" afterPath="$PROJECT_DIR$/notes.js" afterDir="false" />
-    </list>
+    <list default="true" id="28e242ed-c8d4-4c64-8bd3-c38fa195639b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +113,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/xampp/htdocs/cuetmwa/final" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -150,12 +144,12 @@
       <workItem from="1566818236955" duration="426000" />
       <workItem from="1566818897285" duration="1665000" />
       <workItem from="1566929861451" duration="7000" />
-      <workItem from="1567076080851" duration="475000" />
+      <workItem from="1567076080851" duration="606000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2573000" />
+    <option name="totallyTimeSpent" value="2704000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />

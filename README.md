@@ -22,3 +22,8 @@ node app.js list
 // Read A Note
 
 node app.js read --title="Your Title"
+
+
+// Get Weather Data
+
+node app.js address --city="Dhaka"
